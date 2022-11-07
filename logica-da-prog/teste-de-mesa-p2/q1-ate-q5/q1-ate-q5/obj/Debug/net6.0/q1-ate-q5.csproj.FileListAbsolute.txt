@@ -1,0 +1,15 @@
+C:\Users\Babbi\Desktop\BNE\datalake-bne\logica-da-prog\teste-de-mesa-p2\q1-ate-q5\q1-ate-q5\bin\Debug\net6.0\q1-ate-q5.exe
+C:\Users\Babbi\Desktop\BNE\datalake-bne\logica-da-prog\teste-de-mesa-p2\q1-ate-q5\q1-ate-q5\bin\Debug\net6.0\q1-ate-q5.deps.json
+C:\Users\Babbi\Desktop\BNE\datalake-bne\logica-da-prog\teste-de-mesa-p2\q1-ate-q5\q1-ate-q5\bin\Debug\net6.0\q1-ate-q5.runtimeconfig.json
+C:\Users\Babbi\Desktop\BNE\datalake-bne\logica-da-prog\teste-de-mesa-p2\q1-ate-q5\q1-ate-q5\bin\Debug\net6.0\q1-ate-q5.dll
+C:\Users\Babbi\Desktop\BNE\datalake-bne\logica-da-prog\teste-de-mesa-p2\q1-ate-q5\q1-ate-q5\bin\Debug\net6.0\q1-ate-q5.pdb
+C:\Users\Babbi\Desktop\BNE\datalake-bne\logica-da-prog\teste-de-mesa-p2\q1-ate-q5\q1-ate-q5\obj\Debug\net6.0\q1-ate-q5.csproj.AssemblyReference.cache
+C:\Users\Babbi\Desktop\BNE\datalake-bne\logica-da-prog\teste-de-mesa-p2\q1-ate-q5\q1-ate-q5\obj\Debug\net6.0\q1-ate-q5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Babbi\Desktop\BNE\datalake-bne\logica-da-prog\teste-de-mesa-p2\q1-ate-q5\q1-ate-q5\obj\Debug\net6.0\q1-ate-q5.AssemblyInfoInputs.cache
+C:\Users\Babbi\Desktop\BNE\datalake-bne\logica-da-prog\teste-de-mesa-p2\q1-ate-q5\q1-ate-q5\obj\Debug\net6.0\q1-ate-q5.AssemblyInfo.cs
+C:\Users\Babbi\Desktop\BNE\datalake-bne\logica-da-prog\teste-de-mesa-p2\q1-ate-q5\q1-ate-q5\obj\Debug\net6.0\q1-ate-q5.csproj.CoreCompileInputs.cache
+C:\Users\Babbi\Desktop\BNE\datalake-bne\logica-da-prog\teste-de-mesa-p2\q1-ate-q5\q1-ate-q5\obj\Debug\net6.0\q1-ate-q5.dll
+C:\Users\Babbi\Desktop\BNE\datalake-bne\logica-da-prog\teste-de-mesa-p2\q1-ate-q5\q1-ate-q5\obj\Debug\net6.0\refint\q1-ate-q5.dll
+C:\Users\Babbi\Desktop\BNE\datalake-bne\logica-da-prog\teste-de-mesa-p2\q1-ate-q5\q1-ate-q5\obj\Debug\net6.0\q1-ate-q5.pdb
+C:\Users\Babbi\Desktop\BNE\datalake-bne\logica-da-prog\teste-de-mesa-p2\q1-ate-q5\q1-ate-q5\obj\Debug\net6.0\q1-ate-q5.genruntimeconfig.cache
+C:\Users\Babbi\Desktop\BNE\datalake-bne\logica-da-prog\teste-de-mesa-p2\q1-ate-q5\q1-ate-q5\obj\Debug\net6.0\ref\q1-ate-q5.dll
