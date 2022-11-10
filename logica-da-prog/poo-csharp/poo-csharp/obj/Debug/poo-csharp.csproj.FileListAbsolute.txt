@@ -1,0 +1,8 @@
+C:\Users\Babbi\Desktop\BNE\datalake-bne\logica-da-prog\poo-csharp\poo-csharp\obj\Debug\poo-csharp.csproj.AssemblyReference.cache
+C:\Users\Babbi\Desktop\BNE\datalake-bne\logica-da-prog\poo-csharp\poo-csharp\obj\Debug\poo-csharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Babbi\Desktop\BNE\datalake-bne\logica-da-prog\poo-csharp\poo-csharp\obj\Debug\poo-csharp.csproj.CoreCompileInputs.cache
+C:\Users\Babbi\Desktop\BNE\datalake-bne\logica-da-prog\poo-csharp\poo-csharp\bin\Debug\poo-csharp.exe.config
+C:\Users\Babbi\Desktop\BNE\datalake-bne\logica-da-prog\poo-csharp\poo-csharp\bin\Debug\poo-csharp.exe
+C:\Users\Babbi\Desktop\BNE\datalake-bne\logica-da-prog\poo-csharp\poo-csharp\bin\Debug\poo-csharp.pdb
+C:\Users\Babbi\Desktop\BNE\datalake-bne\logica-da-prog\poo-csharp\poo-csharp\obj\Debug\poo-csharp.exe
+C:\Users\Babbi\Desktop\BNE\datalake-bne\logica-da-prog\poo-csharp\poo-csharp\obj\Debug\poo-csharp.pdb

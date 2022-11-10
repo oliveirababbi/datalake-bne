@@ -45,12 +45,10 @@ for (int i = 0; i < 1; i++)
     }
 }
 
-/*
+
 
 QUESTÃO 03
--------------------------------------------------------------------------------------
-
-
+------------------------------------------------------------------------------------
 
 Console.WriteLine("Digite o valor inicial:");
 double P = double.Parse(Console.ReadLine());
@@ -71,6 +69,7 @@ for (int cont = 0; cont < n; cont++)
 Console.WriteLine("\nValor Presente | Taxas de Juros | Período (Mês) | Valor Futuro");
 Console.WriteLine("--------------------------------------------------------------");
 Console.WriteLine($"   R$ {P:F2}    |      {i}%        |    {n} meses    |  R$ {F:F2}");
+
 
 
 QUESTÃO 04
@@ -113,9 +112,10 @@ for (int i = 0; i < 1; i++)
     }
 }
 
+
 QUESTÃO 05 
 -------------------------------------------------------------------------------------
-
+*/
 
 double i = 1.25;
 int n = 6;
@@ -131,4 +131,3 @@ Console.WriteLine("Valor Presente | Taxas de Juros | Período (Mês) | Valor Fut
 Console.WriteLine("--------------------------------------------------------------");
 Console.WriteLine($"  R$ {P:F2}   |      {i}%     |    {n} meses    |  R$ {F:F2}");
 
-*/
