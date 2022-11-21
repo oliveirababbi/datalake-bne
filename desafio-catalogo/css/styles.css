@@ -118,6 +118,7 @@ header ul li a
 
 .thumb
 {
+    max-width: 1200px;
     position: absolute;
     left: 50%;
     bottom: 20px;
@@ -125,6 +126,7 @@ header ul li a
     display: flex;
     overflow-x: auto;
 }
+
 
 .thumb li
 {
