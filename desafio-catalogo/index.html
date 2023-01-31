@@ -32,7 +32,7 @@
                 </div>
         </div>
 
-        <ul class="thumb">
+        <ul class="thumb" id="thumbnails">
             <li><img src="images/thumb1.png" onclick="imgSlider('images/img1.png')"></li>
             <li><img src="images/thumb2.png" onclick="imgSlider('images/img2.png')"></li>
             <li><img src="images/thumb3.png" onclick="imgSlider('images/img3.png')"></li>
@@ -66,12 +66,25 @@
             <li><img src="images/thumb31.png" onclick="imgSlider('images/img31.png')"></li>
             <li><img src="images/thumb32.png" onclick="imgSlider('images/img32.png')"></li>
         </ul>
+        <button type="button" id="btn-right">Direita</button>
+        <button type="button" id="btn-left">Esquerda</button>
     </div>
 
     <script type="text/javascript">
         function imgSlider(anything) {
             document.querySelector('.bandeiras').src =  anything;
         }
+        
+        function btn(value) {
+            return function() {
+                const anything =document.getElementById('thumbnails')
+                anything.scrollLeft+=value
+            }
+        }
+
+       document.getElementById('btn-right').addEventListener('click',btn(80))
+       document.getElementById('btn-left').addEventListener('click',btn(-80))
+
     </script>
 
 </body>
